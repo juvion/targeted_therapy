@@ -4,9 +4,9 @@
 _**2015.1.12**_   
 **对话：** 
 汪晓燕，苏州生物科技创投
-> "在针对五年生存率不到百分之二十的非小细胞肺癌的PD1单抗临床试验中，中期结果分析发现免疫治疗实验组生存率远超化疗紫杉醇对照组，实验马上终止，对照组病人全体改用免疫治疗"
+> "在针对五年生存率不到百分之二十的非小细胞肺癌的PD1单抗临床试验中，中期结果分析发现免疫治疗实验组生存率远超化疗紫杉醇对照组，实验马上终止，对照组病人全体改用免疫治疗"  
 > "这是BMS（百时美施贵宝）的单抗药，在日本好像已经批了。"  
-
+> "[BMS的网站发布的消息](http://m.news.bms.com/press-release/checkmate-017-phase-3-study-opdivo-nivolumab-compared-docetaxel-patients-second-line-s?from=groupmessage&isappinstalled=0)。"
 
 _**2015.1.8**_  
 **对话：**  
