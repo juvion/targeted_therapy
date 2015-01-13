@@ -28,7 +28,7 @@ _**2015.1.12**_
 >万清
 
 赵健，UCLA博士后
-> Pubmed上搜一下肺癌治疗的guideline, 了解一下还是有用的。[下载相关资料9-11](#a1)  
+> Pubmed上搜一下肺癌治疗的guideline, 了解一下还是有用的。[下载相关资料9-12](#a1)  
 > 关于临床试验，这个贴子给了两个链接
 > [http://news.bioon.com/article/6662415.html](http://news.bioon.com/article/6662415.html)
 
@@ -86,6 +86,7 @@ _**2015.1.8**_
 9. Treatment of Non-small Cell Lung Cancer Stage I and II ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][9]  
 10. Treatment of Non-small Cell Lung Cancer Stage IIIA ACCP Evidence-              Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][10]  
 11. Treatment of Non-small Cell Lung Cancer Stage IV ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][11]
+12. Treatment of Non-small Cell Lung Cancer Stage IV ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][12]
 
 
 [1]: http://wenku.baidu.com/link?url=1Wzn8T-DDfd822hlasQiRXEYYLha1GJ_HhnT9xpYvW99ftieVQHAjKKr95L0qRqDC6b1zuwtoJNpljZVOBRBFDmWRx-3_73u6WJaatmjw97
@@ -99,4 +100,5 @@ _**2015.1.8**_
 [8]: http://en.wikipedia.org/wiki/Targeted_therapy_of_lung_cancer 
 [9]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer%20Stage%20I%20and%20II.pdf?raw=true  
 [10]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer%20Stage%20IIIA.pdf?raw=true  
-[11]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer%20Stage%20IV.pdf?raw=true
+[11]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer,%20Stage%20IIIB.pdf?raw=true
+[12]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer%20Stage%20IV.pdf?raw=true
