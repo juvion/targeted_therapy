@@ -3,6 +3,70 @@
 
 我现在已经开始感觉信息太多太杂，在我们实验室的讨论组里已经有同学关于是否应该获取过多杂乱信息辩论。对此，我希望你一定要以专业信息为准，网上的信息比较乱，最好能查询专业资料。然后所有的这些专业领域的建议都提到了要以医生的建议为核心，我相信你能理智的对待。
 
+
+_**2015.1.15**_  
+增加[相关资料13，14](#a4)  
+**推荐文章：**  谈诤推荐([相关资料13](#a4))。  
+【563】非小细胞肺癌靶向治疗策略及剂量推荐（NCCN2015v3指南 系列1）
+2015-01-14肿瘤资讯
+作者:张明辉 【肿瘤资讯—肺癌频道特约编辑】
+
+本文将NCCN2015v3（截至目前官方最新版）所有涉及靶向治疗的阐述进行归纳，并从指南引入的临床试验中提取标准剂量进行推荐。文章中所提供的靶向治疗策略希望能为工作在一线的肿瘤科医生提供清晰的靶向治疗思路。
+
+一、术后辅助治疗（指南未推荐，不建议临床中使用，仅限于临床试验）
+
+2014年ASCO公布了两项EGFR-TKI辅助治疗的重磅研究RADIANT和SELECT。RADIANT研究显示厄洛替尼（150mg/d）持续2年与安慰剂比较没有延长NSCLC术后的DFS。亚组分析中，EGFR突变患者厄洛替尼有延长DFS趋势。另一项SELECT研究显示厄洛替尼用于EGFR突变的NSCLC术后辅助是可行的，2年DFS率为（89%）。笔者认为，随着SELECT随访时间延长，从目前的数据可以看出，最终的OS有可能受益，很有可能改变EGFR-TKI在辅助治疗中的地位。
+
+晚期NSCLC一线治疗
+
+肿瘤科的医生们在进行治疗决策前一定要推荐所有非鳞癌患者进行EGFR与ALK基因的检测（原则问题一定要把握），此外对于既往无吸烟史、小活检标本、混合组织学类型的鳞癌患者也可考虑进行检测（肿瘤科高手的选择）。根据EGFR是否突变及ALK是否融合决定治疗策略。
+
+1.EGFR敏感突变（亚洲突变率50%）：①EGFR突变在一线治疗前发现，应用特罗凯（150mg/d）或阿法替尼（40mg/d剂量来源于LUX-Lung 3）②EGFR突变在一线治疗时发现完成化疗计划或停用化疗，开始厄洛替尼、阿法替尼治疗或在当前的化疗基础联合厄洛替尼或阿法替尼（2B类证据）。靶向药物治疗时间为直到疾病进展或无法耐受。疾病进展后参考二线治疗。NCCN指南流程图中未推荐易瑞沙（250mg/d）原因为欧美很难获得该药，指南中角标中标注对于能够获得易瑞沙的国家，可用易瑞沙替代特罗凯。此外阿法替尼在我国未上市，可暂不考虑。
+
+2.ALK阳性（发生率2-7%）①ALK重排在一线治疗前发现，应用克唑替尼（250mg bidpo 剂量来源于PROFILE1014）②ALK重排在一线治疗时发现，终止或完成计划的化疗，开始克唑替尼的治疗。靶向药物治疗时间为直到疾病进展或无法耐受。疾病进展后参考二线治疗。克唑替尼已经获得CFDA批准，我国临床中可进行应用
+
+3.贝伐单抗的应用的适应症为：①非鳞癌、最近无咳血史，②PS评分为0-1，③EGFR与ALK阴性，④不推荐单独应用，除非维持治疗。推荐方案为贝伐单抗（15mg/kg剂量来源于ECOG 4599）联合化疗，贝伐单抗持续应用直到疾病进展。
+
+二线治疗
+
+EGFR敏感突变：①一线应用厄洛替尼或阿法替尼治疗进展无症状的患者，可继续应用特罗凯或阿法替尼。②一线应用厄洛替尼或阿法替尼治疗进展有症状的脑或全身转移的患者，当转移灶为孤立病灶时考虑局部治疗和继续特罗凯和阿法替尼治疗。对于多发脑部病灶可考虑全脑放疗和继续特罗凯和阿法替尼治疗。脑以外其他全身转移病灶可考虑含铂两药或贝伐单抗联合化疗±特罗凯
+
+2. ALK阳性一线应用克唑替尼进展无症状的患者，可继续应用克唑替尼或换用Ceritinib(750mg/d,数据来源于ASCEND-1)（对于影像学诊断为快速进展的换用Ceritinib）。②一线应用克唑替尼治疗进展有症状的脑或全身转移的患者，当转移灶为孤立病灶时考虑局部治疗和ALK抑制剂。对于多发脑部病灶可考虑全脑放疗和继续ALK抑制剂。脑以外其他全身转移病灶可考虑Ceritinib或含铂两药或贝伐单抗联合化疗
+
+ALK基因重排与EGFR突变存在排斥现象，也就是当EGFR为阳性时，ALK多为阴性，ALK阳性时，EGFR多为阴性。
+
+3.一线化疗进展后的患者可应用Ramucirumab（10mg/kg，数据来源于REVEL）＋紫杉醇。
+
+Ramucirmab为血管内皮生长因子受体2（VEGFR2）及下游血管生成相关通路人源化单克隆抗体。一个于2015v1NSCLC冲进指南二线的药，并且2014年被FDA批准为晚期胃癌或胃食管结合处腺癌，却有着屌丝一样的名字，他的中文名叫雷莫卢单抗。
+
+三、三线治疗或以上
+
+现有临床证据认为厄洛替尼优于安慰剂，推荐临床试验。
+
+四、维持治疗
+
+维持治疗主要包括继续维持治疗和换药维持治疗，维持治疗的原则为一线治疗4-6周期后疾病未进展。①继续维持治疗：4-6周期含铂两药化疗＋贝伐单抗后贝伐单抗（15mg/kg）维持或4-6周期贝伐单抗+培美曲塞＋顺铂后贝伐单抗+培美曲塞维持②换药维持治疗：一线含铂两药化疗后，应用特罗凯维持。
+
+五、针对于NSCLC不同驱动基因靶点的新靶向药物
+
+驱动基因 BRAF V600E突变：vemurafenib，dabrafenib
+MET扩增：克唑替尼（2A）
+ROS1重排：克唑替尼(2A)
+HER2突变：曲妥珠单抗，阿法替尼(2B)
+RET基因融合：cabozantinib（2B）
+
+以上所有靶向药物仅出现在NCCN指南的附表中，未在流程图中推荐。
+
+本文主要从靶向治疗的策略进行总结，没有Ctrl+C和Ctrl+V粗鲁的过程，欢迎互相转载学习。
+
+主要参考：2015 version3NCCN guideline
+
+作者:张明辉 【肿瘤资讯—肺癌频道特约编辑】
+哈尔滨医科大学附属肿瘤医院
+邮箱：zhmhui1985@163.com
+声明：肿瘤资讯独家专稿，转载请注明出处“肿瘤资讯”微信
+
+
 _**2015.1.14**_  
 **对话：**
 邢述，吉林大学生命科学院教授，肿瘤基础研究
@@ -95,8 +159,9 @@ _**2015.1.8**_
 9. Treatment of Non-small Cell Lung Cancer Stage I and II ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][9]  
 10. Treatment of Non-small Cell Lung Cancer Stage IIIA ACCP Evidence-              Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][10]  
 11. Treatment of Non-small Cell Lung Cancer Stage IV ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][11]
-12. Treatment of Non-small Cell Lung Cancer Stage IV ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][12]
-
+12. Treatment of Non-small Cell Lung Cancer Stage IV ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][12]  
+13. [非小细胞肺癌靶向治疗策略及剂量推荐（NCCN2015v3指南 系列1）][13] <a name="a4"></a> 
+14. [肺癌年度盘点：靶向治疗成新宠] [14]]
 
 [1]: http://wenku.baidu.com/link?url=1Wzn8T-DDfd822hlasQiRXEYYLha1GJ_HhnT9xpYvW99ftieVQHAjKKr95L0qRqDC6b1zuwtoJNpljZVOBRBFDmWRx-3_73u6WJaatmjw97
 [1.1]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Afatinib(%E9%98%BF%E6%B3%95%E6%9B%BF%E5%B0%BC)%E6%B2%BB%E7%96%97%E9%9D%9E%E5%B0%8F%E7%BB%86%E8%83%9E%E8%82%BA%E7%99%8C%E7%9A%84%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf?raw=true
@@ -110,4 +175,6 @@ _**2015.1.8**_
 [9]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer%20Stage%20I%20and%20II.pdf?raw=true  
 [10]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer%20Stage%20IIIA.pdf?raw=true  
 [11]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer,%20Stage%20IIIB.pdf?raw=true
-[12]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer%20Stage%20IV.pdf?raw=true
+[12]: https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Treatment%20of%20Non-small%20Cell%20Lung%20Cancer%20Stage%20IV.pdf?raw=true   
+[13]: http://mp.weixin.qq.com/s?__biz=MzA5MzQxNzkwMA==&mid=202369753&idx=3&sn=a8a4e12f43840a48d829ae2e803fe644&scene=1&from=groupmessage&isappinstalled=0#rd
+[14]: http://mp.weixin.qq.com/s?__biz=MzA5MDY3ODExNQ==&mid=201737496&idx=2&sn=18cefb892c77ec1588fc3e4484a27f04&scene=1&from=singlemessage&isappinstalled=0#rd
