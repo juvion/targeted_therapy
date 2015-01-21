@@ -5,12 +5,23 @@
 
 
 _**2015.1.21**_  
-**对话：**  谈诤
->On Wednesday, January 21, 2015 at 1:32:45 PM UTC-5, Zheng Tan wrote:
+
+
+**对话：**  
+>2015-01-21 chuwen lin  
+>原因好像大家也不知道，但是临床上情况就是这样，所以医生不管EGFR是否有突变都会建议病人吃EGFR靶向药  
+>2015-01-21 10:49 GMT-08:00 chuwen lin  
+>即使EGFR突变阴性吃抗EGFR药大部分情况下对病人预后也是有好处的，  
+>>2015-01-21 10:40 GMT-08:00 Zheng Tan <tzaka...@gmail.com>:  
+不理解。
+>>>On Wednesday, January 21, 2015, Ju <xju....@gmail.com> wrote:  
+盲吃易瑞沙应该就是医生给的建议。
+嗯，朋友应该是一直在遵从医生的治疗，并没有自作主张。
+>>>>On Wednesday, January 21, 2015 at 1:32:45 PM UTC-5, Zheng Tan wrote:
 应该还是要由主治医师决定治疗方案吧。为什么要盲吃易瑞沙呢？而且知道EGFR是阴性还是继续吃，有害无利。我理解病人急切的心情，但是还是应该同医生充分沟通决定治疗方案。帮助病人理解一些专业知识是为了让病人同医生更好的交流，不是为了让病人自行其事，或同医生叫板。
 这些检测没有找到可利用的靶向位点可以考虑扩大检测范围，比如华大的oseq。基因检测不光是指导靶向用药，还可以指导化疗用药。在没有找到合适的靶向药之前可能还是要用化疗放疗控制，许多时候靶向药也需要同化疗药配合使用。最终还是要医生来决定。
 
-感觉谈诤很担心你自主对自己定了治疗策略，我解释说你还是听了医生的。  
+感觉谈诤很担心你自主决定干扰了治疗，我解释说你还是听了医生的。  
 华大 Oseq:   
 [http://www.knowgene.com/question/7056](http://www.knowgene.com/question/7056)
 [http://www.genomics.cn/news/show_news?nid=104124](http://www.genomics.cn/news/show_news?nid=104124)
