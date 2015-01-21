@@ -4,6 +4,17 @@
 我现在已经开始感觉信息太多太杂，在我们实验室的讨论组里已经有同学关于是否应该获取过多杂乱信息辩论。对此，我希望你一定要以专业信息为准，网上的信息比较乱，最好能查询专业资料。然后所有的这些专业领域的建议都提到了要以医生的建议为核心，我相信你能理智的对待。
 
 
+_**2015.1.21**_  
+**对话：**  谈诤
+>On Wednesday, January 21, 2015 at 1:32:45 PM UTC-5, Zheng Tan wrote:
+应该还是要由主治医师决定治疗方案吧。为什么要盲吃易瑞沙呢？而且知道EGFR是阴性还是继续吃，有害无利。我理解病人急切的心情，但是还是应该同医生充分沟通决定治疗方案。帮助病人理解一些专业知识是为了让病人同医生更好的交流，不是为了让病人自行其事，或同医生叫板。
+这些检测没有找到可利用的靶向位点可以考虑扩大检测范围，比如华大的oseq。基因检测不光是指导靶向用药，还可以指导化疗用药。在没有找到合适的靶向药之前可能还是要用化疗放疗控制，许多时候靶向药也需要同化疗药配合使用。最终还是要医生来决定。
+
+感觉谈诤很担心你自主对自己定了治疗策略，我解释说你还是听了医生的。  
+华大 Oseq:   
+[http://www.knowgene.com/question/7056](http://www.knowgene.com/question/7056)
+[http://www.genomics.cn/news/show_news?nid=104124](http://www.genomics.cn/news/show_news?nid=104124)
+
 _**2015.1.15**_  
 增加[相关资料13，14](#a4)  
 **推荐文章：**  谈诤推荐([相关资料13](#a4))。  
@@ -160,7 +171,7 @@ _**2015.1.8**_
 10. Treatment of Non-small Cell Lung Cancer Stage IIIA ACCP Evidence-              Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][10]  
 11. Treatment of Non-small Cell Lung Cancer Stage IV ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][11]
 12. Treatment of Non-small Cell Lung Cancer Stage IV ACCP Evidence-Based Clinical Practice Guidelines (2nd Edition) [(下载pdf)][12]  
-13. [非小细胞肺癌靶向治疗策略及剂量推荐（NCCN2015v3指南 系列1）][13] <a name="a4"></a> 
+13. [非小细胞肺癌靶向治疗策略及剂量推荐（NCCN2015v3指南 系列1）][13] <a name="a4"></a>   
 14. [肺癌年度盘点：靶向治疗成新宠] [14]]
 
 [1]: http://wenku.baidu.com/link?url=1Wzn8T-DDfd822hlasQiRXEYYLha1GJ_HhnT9xpYvW99ftieVQHAjKKr95L0qRqDC6b1zuwtoJNpljZVOBRBFDmWRx-3_73u6WJaatmjw97
