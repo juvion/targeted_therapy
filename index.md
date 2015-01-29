@@ -3,6 +3,13 @@
 
 我现在已经开始感觉信息太多太杂，在我们实验室的讨论组里已经有同学关于是否应该获取过多杂乱信息辩论。对此，我希望你一定要以专业信息为准，网上的信息比较乱，最好能查询专业资料。然后所有的这些专业领域的建议都提到了要以医生的建议为核心，我相信你能理智的对待。
 
+_**2015.1.28**_  
+>“基因检测cmet+++，ros1 阴代表啥？”  
+>Cmet看起来有扩增，可以试一试crizotinib，但是还是要有医生决定。  
+>[MET Amplification in Non-Small Cell Lung Cancer](http://www.mycancergenome.org/content/disease/lung-cancer/met/59)  
+
+My Cancer Genome 这个网站可以很全面的查询很多基因信息。Ros1 阴性也有说明。Ros1的融合突变也是一个靶位点。[http://www.mycancergenome.org/content/disease/lung-cancer/ros1/67/](http://www.mycancergenome.org/content/disease/lung-cancer/ros1/67/)
+
 _**2015.1.23**_   
 大师兄刘万清特地提到BRAF的检测，记得你好像没有做，虽然比例很低，但也是靶向治疗的一个希望，最好去做一个检测。  
 **对话：**
