@@ -3,6 +3,15 @@
 
 我现在已经开始感觉信息太多太杂，在我们实验室的讨论组里已经有同学关于是否应该获取过多杂乱信息辩论。对此，我希望你一定要以专业信息为准，网上的信息比较乱，最好能查询专业资料。然后所有的这些专业领域的建议都提到了要以医生的建议为核心，我相信你能理智的对待。
 
+
+_**2015.3.9**_  
+两篇抗生素对癌症治疗的文献。  
+
+1. Azithromycin enhances the favorable results of paclitaxel and cisplatin in patients with advanced non-small cell lung cancer. [pdf](https://dl.dropboxusercontent.com/u/3637996/mypage/targeted_therapy/Azithromycin%20non-small%20cell%20lung%20cancer.pdf)
+
+2. Antibiotics that target mitochondria effectively eradicate cancer  stem cells, across multiple tumor types: Treating cancer like an  infectious disease. [pdf](https://dl.dropboxusercontent.com/u/3637996/mypage/targeted_therapy/Antibiotics%20that%20target%20mitochondria.pdf)
+
+
 _**2015.2.2**_ 
 >On Monday, February 2, 2015 at 7:11:43 PM UTC-5, Zheng Tan wrote:  
 The phase III trial of the drug on NSCLC was a success but the drug has not been approved for NSCLC yet.  People are still not clear what kind of patients will respond to anti PD1/l1 therapy. In the clinical trial above people with low level of PDL1 still responded. Our recommendation is based on literature review of current data. 
