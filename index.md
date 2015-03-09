@@ -7,9 +7,9 @@
 _**2015.3.9**_  
 两篇抗生素对癌症治疗的文献。  
 
-1. Azithromycin enhances the favorable results of paclitaxel and cisplatin in patients with advanced non-small cell lung cancer. [pdf](https://dl.dropboxusercontent.com/u/3637996/mypage/targeted_therapy/Azithromycin%20non-small%20cell%20lung%20cancer.pdf)
+1. Azithromycin enhances the favorable results of paclitaxel and cisplatin in patients with advanced non-small cell lung cancer. [pdf](https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Azithromycin%20non-small%20cell%20lung%20cancer.pdf?raw=true)
 
-2. Antibiotics that target mitochondria effectively eradicate cancer  stem cells, across multiple tumor types: Treating cancer like an  infectious disease. [pdf](https://dl.dropboxusercontent.com/u/3637996/mypage/targeted_therapy/Antibiotics%20that%20target%20mitochondria.pdf)
+2. Antibiotics that target mitochondria effectively eradicate cancer  stem cells, across multiple tumor types: Treating cancer like an  infectious disease. [pdf](https://github.com/juvion/targeted_therapy/blob/gh-pages/documents/Antibiotics%20that%20target%20mitochondria.pdf?raw=true)
 
 
 _**2015.2.2**_ 
